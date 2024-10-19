@@ -44,7 +44,7 @@ Welcome to the Car Sales Dashboard Analysis repository! This Power BI dashboard 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/JPraj902/car-sales-dashboard.git
+   git clone https://github.com/JPraj902/Car-Sales-Analysis.git
    ```
 
 2. **Open in Power BI**:
