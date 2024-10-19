@@ -1,12 +1,6 @@
 # 🚗 Car Sales Dashboard Analysis
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![GitHub stars](https://img.shields.io/github/stars/JPraj902/Car-Sales-Analysis.svg?style=social&label=Star)](https://github.com/JPraj902/Car-Sales-Analysis)
-[![GitHub forks](https://img.shields.io/github/forks/JPraj902/Car-Sales-Analysis.svg?style=social&label=Fork)](https://github.com/JPraj902/Car-Sales-Analysis/fork)
-
 Welcome to the Car Sales Dashboard Analysis repository! This Power BI dashboard provides comprehensive insights into car sales data, enabling data-driven decision-making for stakeholders in the automotive industry.
-
-![Car Sales Dashboard]file:///C:/Users/Administrator/Pictures/Screenshots/Screenshot%202024-10-19%20122617.png)
 
 ## 📊 Key Metrics
 
