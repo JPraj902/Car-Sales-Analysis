@@ -2,6 +2,8 @@
 
 Welcome to the Car Sales Dashboard Analysis repository! This Power BI dashboard provides comprehensive insights into car sales data, enabling data-driven decision-making for stakeholders in the automotive industry.
 
+![Car Analysis](https://github.com/user-attachments/assets/53a2402f-7f8b-4ed8-ac11-4893be318633)
+
 ## 📊 Key Metrics
 
 | Metric | YTD Value | MTD Value | MTD Growth |
